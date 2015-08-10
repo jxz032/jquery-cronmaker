@@ -1,6 +1,6 @@
 # jquery-cronmaker
 
-A cron-maker plugin. 
+A cron expression maker jquery plugin. 
 
 #Usage
 
